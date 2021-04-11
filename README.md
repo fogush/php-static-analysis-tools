@@ -104,7 +104,7 @@ Tools to automatically fix the code they are provided with.
 * [FunctionFQNReplacer](https://github.com/Roave/FunctionFQNReplacer) - provides a way to replace relative references of functions in function calls with absolute references.
 * [PHP BackSlasher](https://github.com/nilportugues/php-backslasher) - Tool to add all PHP internal functions and constants to its namespace by adding backslash to them.
 * [php-refactoring-browser](https://github.com/QafooLabs/php-refactoring-browser) - CLI refactoring tool.
-* [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - Analyzes and tries to fix coding standards issues (PSR-1 and PSR-2 compatible).
+* [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - Analyzes and tries to fix coding standards issues (PSR-1, PSR-2, PSR-12 compatible).
 * [phpdoc to typehint](https://github.com/dunglas/phpdoc-to-typehint) - Turn phpdocs comments to actual Typehint (arguments and return).
 * [php-scoper](https://github.com/humbug/php-scoper) -  Prefixes all PHP namespaces in a file/directory to isolate the code bundled in PHARs.
 * [Transphpile](https://github.com/jaytaph/Transphpile) - Write PHP 7, run PHP 5.6, with feature backport.
@@ -158,3 +158,4 @@ Online services for PHP code, provide dashboards. They may use the previous tool
 * [Composer Require Checker](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to check whether a specific composer package uses imported symbols that aren't part of its direct composer dependencies
 * [phpstaticanalysis.com](https://phpstaticanalysis.com/demo) - A website that lets you try some PHP static analysis command-line tools online
 * [Static Analysis Results Baseliner](https://github.com/DaveLiddament/sarb) - A tool for generating a baseline from static analysis tools. 
+* [GrumPHP](https://github.com/phpro/grumphp) - A composer plugin that registers git hooks and runs code analyzers and other stuff 
